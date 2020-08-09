@@ -7,7 +7,7 @@ package untitled.src;
 
  class Window01 implements  Runnable{
         private static int ticket = 100;
-
+//	"creat 1.0"
         Object obj = new Object();
         @Override
         public void run() {
